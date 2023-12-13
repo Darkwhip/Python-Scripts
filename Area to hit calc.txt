@@ -1,0 +1,6 @@
+boat = 20m/s, 0.1 error bearing difference
+gun = 400m/s, 0.1 accuracy.
+distance = 1000m
+time to target is 2.5s or muzzle velocity/distance
+boat = 50m forward, 0.1 bearing error, deviance circle is 8cm
+gun = 1000m forward, 0.1 accuracy, deviance circle is 174cm
